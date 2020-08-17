@@ -1,0 +1,12 @@
+.App {
+  padding: 10px;
+}
+div {
+  margin-bottom: 20px;
+}
+table, td, th{
+  border-collapse: collapse;
+  border: 1px solid black;
+  text-align: left;
+  padding: 5px;
+}
